@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CONDICIONAIS EM C-SHARP", "CONDICIONAIS EM C-SHARP\CONDICIONAIS EM C-SHARP.csproj", "{A5D2F3D8-0BB1-4E7B-BC67-4C99A31D1FCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ESTRUTURA CONDICIONAL DE ENCADEAMENTO IF ELSE", "ESTRUTURA CONDICIONAL DE ENCADEAMENTO IF ELSE\ESTRUTURA CONDICIONAL DE ENCADEAMENTO IF ELSE.csproj", "{863A940D-B174-4932-8886-2A7F980ECF79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5D2F3D8-0BB1-4E7B-BC67-4C99A31D1FCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5D2F3D8-0BB1-4E7B-BC67-4C99A31D1FCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5D2F3D8-0BB1-4E7B-BC67-4C99A31D1FCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5D2F3D8-0BB1-4E7B-BC67-4C99A31D1FCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{863A940D-B174-4932-8886-2A7F980ECF79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{863A940D-B174-4932-8886-2A7F980ECF79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{863A940D-B174-4932-8886-2A7F980ECF79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{863A940D-B174-4932-8886-2A7F980ECF79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4824AFD2-14CB-492A-B719-387BF008ABAE}
+	EndGlobalSection
+EndGlobal
